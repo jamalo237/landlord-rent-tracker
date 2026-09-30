@@ -1,0 +1,20 @@
+{
+  "name": "landlord-rent-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/server": "^1.4.1",
+    "@supabase/supabase-js": "^2.112.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "prisma": "^7.9.1",
+    "vite": "5.2.0"
+  }
+}
